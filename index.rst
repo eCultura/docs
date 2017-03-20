@@ -11,7 +11,7 @@ Think of it as *Continuous Documentation*.
 .. raw:: html
 
     <div style="padding-bottom:50px;">
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=SW3o7rSn-TY" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SW3o7rSn-TY" frameborder="0" allowfullscreen></iframe>
     </div>
 
 The code is open source, and `available on GitHub`_.
