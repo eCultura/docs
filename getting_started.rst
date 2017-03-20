@@ -15,7 +15,7 @@ opp bilder fra kontrollpanelet.
 .. raw:: html
 
     <div style="padding-bottom:50px;">
-        <img src="http://ecultura.no/wp-content/uploads/2017/03/media_legg_til.png" alt="Smiley face" width="560">
+        <img src="http://ecultura.no/wp-content/uploads/2017/03/media_legg_til.png" alt="Smiley face" width="250">
     </div>
 
 .. _eCultura: http://ecultura.no
