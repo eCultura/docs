@@ -1,5 +1,5 @@
-Welcome to eCultura Docs
-========================
+eCultura Dokumentasjon
+======================
 
 `Read the Docs`_ hosts documentation for the open source community.
 We support Sphinx_ docs written with reStructuredText_ and `CommonMark`_.
