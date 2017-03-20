@@ -1,14 +1,23 @@
 eCultura Dokumentasjon
 ======================
 
-`Read the Docs`_ hosts documentation for the open source community.
+`eCultura`_ er et rammeverk for idrett og kultur. Dette rammeverket bygger på
+`Wordpress`_ Read the Docs`_ hosts documentation for the open source community.
 We support Sphinx_ docs written with reStructuredText_ and `CommonMark`_.
 We pull your code from your Subversion_, Bazaar_, Git_, and Mercurial_ repositories.
 Then we build documentation and host it for you.
 Think of it as *Continuous Documentation*.
 
+.. raw:: html
+
+    <div style="padding-bottom:50px;">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=SW3o7rSn-TY" frameborder="0" allowfullscreen></iframe>
+    </div>
+
 The code is open source, and `available on GitHub`_.
 
+.. _Wordpress: http://wordpress.no/
+.. _eCultura: http://ecultura.no/
 .. _Read the docs: http://readthedocs.org/
 .. _Sphinx: http://sphinx.pocoo.org/
 .. _reStructuredText: http://sphinx.pocoo.org/rest.html
@@ -35,7 +44,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: Brukerdokumentasjon
 
    getting_started
    versions
