@@ -5,8 +5,9 @@ For å kunne ta i bruk eCultura må du registrere deg. Det er kun kommuner som k
 registrere seg som bruker av eCultura.
 
 eCultura er svært enkelt å sette opp. Før du begynner bør du ha klar 2-3 bilder
-som du vil vise på framsiden. Disse bildene må ikke være for lyse. Se på
-`eCultura`_ sin side som eksempel.
+som du vil vise på framsiden. Du kan legge inn opp til 6 bilder på forsiden.
+Disse bildene må ikke være for lyse. Se på `eCultura`_ sin side for å få en
+pekepinn.
 
 Når du laster opp bilder til eCultura må disse være mindre enn 1Mb. Du laster
 opp bilder fra kontrollpanelet.
