@@ -1,11 +1,24 @@
-Getting Started
-===============
+Hvordan komme i gang med eCultura
+=================================
 
-This document will show you how to get up and running with Read the Docs.
-You will have your docs imported on Read the Docs in 5 minutes,
-displayed beautifully for the world.
+For å kunne ta i bruk eCultura må du registrere deg. Det er kun kommuner som kan
+registrere seg som bruker av eCultura.
 
-If you are already using Sphinx or Markdown for your docs, skip ahead to
+eCultura er svært enkelt å sette opp. Før du begynner bør du ha klar 2-3 bilder
+som du vil vise på framsiden. Disse bildene må ikke være for lyse. Se på
+`eCultura`_ sin side som eksempel.
+
+Når du laster opp bilder til eCultura må disse være mindre enn 1Mb. Du laster
+opp bilder fra kontrollpanelet.
+
+.. raw:: html
+
+    <div style="padding-bottom:50px;">
+        <img src="http://ecultura.no/wp-content/uploads/2017/03/media_legg_til.png" alt="Smiley face" width="560">
+    </div>
+
+.. _eCultura: http://ecultura.no
+
 :ref:`import-docs`.
 
 Write Your Docs
