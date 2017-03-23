@@ -1,4 +1,5 @@
-# docs
-Documentation for eCultura
+# Dokumentasjon for eCultura
 
-Her kommer informasjon .. Vi forsetter å skrive i dette dokumentet
+Dokument knyttet til bruker, utvikler og teknisk dokumentasjon for eCultura
+
+Resultatet finner du her: http://ecultura.readthedocs.io/no/latest/
